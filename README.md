@@ -8,8 +8,8 @@ Repositório dedicado à documentação técnica, guias práticos, automações 
 ## 🧰 Módulos e Ferramentas
 
 * 🚀 **[k3s](./k3s/):** Guia de instalação, arquitetura e operação do cluster Kubernetes leve.
-* 🏗️ **[Terraform](./terraform/):** Provisionamento declarativo de infraestrutura e gestão via Helm[cite: 2].
+* 🏗️ **[Terraform](./terraform/):** Provisionamento declarativo de infraestrutura e gestão via Helm.
 * 🌐 **[MetalLB](./metallb/):** Provedor de LoadBalancer local para ambientes bare-metal.
-* 💾 **[Longhorn](./longhorn/):** Armazenamento persistente e distribuído para o cluster[cite: 2].
-* 🔄 **[ArgoCD](./argocd/):** Entrega contínua (GitOps), Ingress Traefik e autenticação GitHub SSO[cite: 2].
+* 💾 **[Longhorn](./longhorn/):** Armazenamento persistente e distribuído para o cluster.
+* 🔄 **[ArgoCD](./argocd/):** Entrega contínua (GitOps), Ingress Traefik e autenticação GitHub SSO.
 
